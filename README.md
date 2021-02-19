@@ -7,3 +7,4 @@ Completing this project felt so great because I felt entirely better about CSS. 
 I look forward to keep learning as a developer.
 
 Check out my Google Homepage here: 
+http://127.0.0.1:5500/index.html
