@@ -6,5 +6,5 @@ Completing this project felt so great because I felt entirely better about CSS. 
 
 I look forward to keep learning as a developer.
 
-Check out my Google Homepage here: 
+Check out my Google Homepage here: https://tylerkrawczyk.github.io/Google_Homepage/
 
